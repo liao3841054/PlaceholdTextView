@@ -1,5 +1,5 @@
 # PlaceholdTextView
-自定义的PlaceholdLabel 的 TextView
+自定义的PlaceholdLabel 的颜色���大小的 TextView
 
 ----------
 
