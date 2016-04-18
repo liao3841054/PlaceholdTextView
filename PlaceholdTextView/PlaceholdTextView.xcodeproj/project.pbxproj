@@ -14,6 +14,7 @@
 		92F86F571CC4C604005F1435 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92F86F561CC4C604005F1435 /* Assets.xcassets */; };
 		92F86F5A1CC4C604005F1435 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92F86F581CC4C604005F1435 /* LaunchScreen.storyboard */; };
 		92F86F641CC4C646005F1435 /* PlaceholdTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 92F86F631CC4C646005F1435 /* PlaceholdTextView.m */; };
+		92F86F661CC4CB79005F1435 /* Simulator Screen Shot 2016年4月18日 下午3.59.37.png in Resources */ = {isa = PBXBuildFile; fileRef = 92F86F651CC4CB79005F1435 /* Simulator Screen Shot 2016年4月18日 下午3.59.37.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		92F86F5B1CC4C604005F1435 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92F86F621CC4C646005F1435 /* PlaceholdTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaceholdTextView.h; sourceTree = "<group>"; };
 		92F86F631CC4C646005F1435 /* PlaceholdTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaceholdTextView.m; sourceTree = "<group>"; };
+		92F86F651CC4CB79005F1435 /* Simulator Screen Shot 2016年4月18日 下午3.59.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 2016年4月18日 下午3.59.37.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				92F86F561CC4C604005F1435 /* Assets.xcassets */,
 				92F86F581CC4C604005F1435 /* LaunchScreen.storyboard */,
 				92F86F5B1CC4C604005F1435 /* Info.plist */,
+				92F86F651CC4CB79005F1435 /* Simulator Screen Shot 2016年4月18日 下午3.59.37.png */,
 				92F86F4A1CC4C603005F1435 /* Supporting Files */,
 			);
 			path = PlaceholdTextView;
@@ -149,6 +152,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92F86F661CC4CB79005F1435 /* Simulator Screen Shot 2016年4月18日 下午3.59.37.png in Resources */,
 				92F86F5A1CC4C604005F1435 /* LaunchScreen.storyboard in Resources */,
 				92F86F571CC4C604005F1435 /* Assets.xcassets in Resources */,
 				92F86F551CC4C604005F1435 /* Main.storyboard in Resources */,
